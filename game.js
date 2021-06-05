@@ -35,11 +35,11 @@
          
 
 
-//         <!-- <script>
+//        
 //             const canvas = document.getElementById("myCanvas");
 //             const context = canvas.getContext("2d");
 //             context.fillRect(40,40,80,80);
 //             context.moveTo(0, 0);
 //             context.lineTo(200, 200);
 //             context.stroke();
-//          </script> -->
+//          
